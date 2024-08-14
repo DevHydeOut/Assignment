@@ -112,7 +112,7 @@ const MasterSlide: React.FC = () => {
           <div className={styles.mainSectionHeading}>
             <h2 className={styles.mainSectionH2}>Meet Your Masters</h2>
             <p className={styles.mainSectionHp}>
-              Take a closer look at Masters who've been there, and done that.
+              Take a closer look at Masters who&apos;ve been there, and done that.
             </p>
           </div>
           <div className={styles.buttondiv}>

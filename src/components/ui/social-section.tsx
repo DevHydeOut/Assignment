@@ -10,7 +10,7 @@ export default function SocialSec() {
   return (
     <section className={styles.outerSocialSec}>
         <div className={styles.socialSecHeading}>
-            <h2 className={styles.socialSecH2}>What's Cooking?</h2>
+            <h2 className={styles.socialSecH2}>What&apos;s Cooking?</h2>
             <button className={styles.socialSecButton}>
                 FOLLOW ON INSTAGRAM
                 <BsArrowUpRight className={styles.contentFirstButtonIcon} />

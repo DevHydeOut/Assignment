@@ -68,7 +68,7 @@ export default function Form() {
             <div className={styles.checkBox}>
                 <label className={styles.checkBoxLabel}>
                     <input type="checkbox" name="agreement" className={styles.checkBoxMark}/>
-                        I authorize Masters' Union to contact me with updates via Calls, SMS, WhatsApp and Emails. This will override my registry on DND/NDNC.
+                        I authorize Masters&apos; Union to contact me with updates via Calls, SMS, WhatsApp and Emails. This will override my registry on DND/NDNC.
                 </label>
             </div>
 
